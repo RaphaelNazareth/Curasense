@@ -3,7 +3,7 @@
 **NLP-based multi-class text classification using TF-IDF and machine learning**
 
 ---
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/050cb05b-a1eb-4d07-aeb8-b77fbbdf6645" />
+<img width="1408" height="768" alt="Gemini_Generated_Image_318shp318shp318s" src="https://github.com/user-attachments/assets/6932206d-da09-41d1-8ac9-fe92ecbde2d0" />
 
 ## 📌 Overview
 
